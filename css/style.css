@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    
+}
+h1 {color: darkslategrey;}
+
+
+
+.anasayfa {
+    font-family: 'Luxurious Roman', cursive;
+    font-size: 20px;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+}
+
+.onemli {
+  font-weight: bold;
+}
+
+.uyari {
+   font-style: italic;
+}
+
+.onemli.uyari{
+    background-color: silver;
+}
+
